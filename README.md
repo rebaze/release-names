@@ -14,6 +14,7 @@ Sometimes the collections can be ordered so that naming is somewhat predictable,
 
 Cavheat: Only use more commonly known cillains from movies. Ommit too common words.
 
+### DC Universe
     - Joker
     - Penguin
     - Scarecrow
@@ -34,3 +35,4 @@ Cavheat: Only list cards that are not-too common words (e.g. Wizard) and preffer
     - Royal Ghost
     - Royal Giant
     - Night Witch
+    - Ice Golem

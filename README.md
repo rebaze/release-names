@@ -10,6 +10,19 @@ While you probably can easily find any number of cohesive groups that can serve 
 
 Sometimes the collections can be ordered so that naming is somewhat predictable, but it is not a prerequisite (yet).
 
+## Coffee Drinks
+
+    - Latte
+    - Iced Latte
+    - Espresso
+    - Iced Espresso
+    - Flat White
+    - Cappuccino
+    - Iced Cappucino
+    - Cafe Ole
+    - Cortado
+    - Iced Cortado
+    
 ## Comic Villains
 
 Cavheat: Only use more commonly known cillains from movies. Ommit too common words.

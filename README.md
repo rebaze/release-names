@@ -25,7 +25,7 @@ Sometimes the collections can be ordered so that naming is somewhat predictable,
     
 ## Comic Villains
 
-Cavheat: Only use more commonly known cillains from movies. Ommit too common words.
+Caveat: Only use more commonly known cillains from movies. Omit too common words.
 
 ### DC Universe
     - Joker

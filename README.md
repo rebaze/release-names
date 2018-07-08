@@ -22,6 +22,10 @@ Sometimes the collections can be ordered so that naming is somewhat predictable,
     - Cafe Ole
     - Cortado
     - Iced Cortado
+    - cafe mocha
+    - cafe americano 
+    - Café au lait
+
     
 ## Comic Villains
 

@@ -25,6 +25,7 @@ Sometimes the collections can be ordered so that naming is somewhat predictable,
     - Cafe Mocha
     - Cafe Americano
     - Café au lait
+    - Moccachino
 
 ## Comic Villains
 

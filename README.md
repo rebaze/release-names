@@ -22,16 +22,16 @@ Sometimes the collections can be ordered so that naming is somewhat predictable,
     - Cafe Ole
     - Cortado
     - Iced Cortado
-    - cafe mocha
-    - cafe americano 
+    - Cafe Mocha
+    - Cafe Americano
     - Café au lait
 
-    
 ## Comic Villains
 
 Caveat: Only use more commonly known cillains from movies. Omit too common words.
 
 ### DC Universe
+
     - Joker
     - Penguin
     - Scarecrow

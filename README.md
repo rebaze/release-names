@@ -36,6 +36,8 @@ Limited supply of names, but i think great names and good for yearly cycles and 
     - Dogtooth
     - BigEye
     - Albacore
+    - Skipjack
+    - Longtail
 
 ## Comic Villains
 

@@ -61,6 +61,7 @@ Cavheat: Only list cards that are not-too common words (e.g. Wizard) and preffer
 
     - Goblin Gang
     - Goblin Barrel
+    - Dart Goblin
     - Spear Goblin
     - Magic Archer
     - Baby Dragon

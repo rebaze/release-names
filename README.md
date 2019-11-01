@@ -54,6 +54,7 @@ Caveat: Only use more commonly known cillains from movies. Omit too common words
     - Two-Face
     - Doomsday
     - Riddler
+    - Venom
 
 ## Clash Royale Cards
 
@@ -69,3 +70,5 @@ Cavheat: Only list cards that are not-too common words (e.g. Wizard) and preffer
     - Royal Giant
     - Night Witch
     - Ice Golem
+    - Elixir Golem
+    - Goblin Cage
